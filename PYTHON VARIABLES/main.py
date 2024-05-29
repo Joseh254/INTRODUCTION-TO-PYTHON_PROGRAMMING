@@ -80,7 +80,10 @@ print(my_son_favourite_color)# print black
 #PRINTING MULTIPLE ITEMS
 
 A = 5
+c =8
+f =10
 
+print(A,c,f) #this will print 5,8 and 10 in the terminal
 
 
 
