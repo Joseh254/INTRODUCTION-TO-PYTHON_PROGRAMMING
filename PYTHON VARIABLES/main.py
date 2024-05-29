@@ -73,6 +73,7 @@ Example
 """
 my_favourite_color = my_dad_favourite_color = my_son_favourite_color = str('Black')
 print(my_favourite_color) #print black
+print(my_dad_favourite_color)#print black
 
 
 
