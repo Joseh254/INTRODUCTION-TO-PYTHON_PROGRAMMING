@@ -32,4 +32,23 @@ print(name)
 
 # will print joseph mbugua
 
+#  Python is case sensitive.That mean a = 5 is not the same as A =54
+
+a= 5
+A = 45
+
+print(a) #will print 5 in the terminal
+
+print(A)# will print 45 in terminal
+
+
+# PYTHON VARIABLE NAMES
+# RULES FOR NAMING A VARIABLE
+
+"""
+A variable name must start with a letter or the underscore character
+
+
+"""
+
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
