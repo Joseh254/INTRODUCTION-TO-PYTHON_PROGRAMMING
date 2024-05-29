@@ -13,5 +13,9 @@ x = "this is a string"  #this is a string datatype
 
 x = range(6)	#this is a range	
 
+x = {"name" : "John", "age" : 36}	#this is a dictionary	datatype
+
+x = {"apple", "banana", "cherry"}	#this is a set	datatype
+
 
 
