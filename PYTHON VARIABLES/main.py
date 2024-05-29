@@ -72,6 +72,7 @@ And you can assign the same value to multiple variables in one line:
 Example
 """
 my_favourite_color = my_dad_favourite_color = my_son_favourite_color = str('Black')
+print(my_favourite_color) #print black
 
 
 
