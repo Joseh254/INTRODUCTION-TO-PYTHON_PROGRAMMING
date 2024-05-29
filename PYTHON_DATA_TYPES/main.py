@@ -11,5 +11,7 @@ x = 6  #this is a numeric datatype
 
 x = "this is a string"  #this is a string datatype
 
+x = range(6)	#this is a range	
+
 
 
