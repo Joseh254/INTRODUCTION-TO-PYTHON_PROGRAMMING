@@ -7,6 +7,7 @@
 # Boolean type: bool.
 # Set data types: set, frozenset.
 
-number = 6  #this is a numeric datatype
-my_string = "this is a string"  #this is a string datatype
+x = 6  #this is a numeric datatype
+
+
 
