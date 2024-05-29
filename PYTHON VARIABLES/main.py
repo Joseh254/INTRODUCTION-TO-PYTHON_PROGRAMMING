@@ -64,4 +64,15 @@ print(age)
 print(gender)
 print(name)
 
+
+"""One Value to Multiple Variables
+
+And you can assign the same value to multiple variables in one line:
+
+Example
+"""
+my_favourite_color = my_dad_favourite_color = my_son_favourite_color = str('Black')
+
+
+
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
