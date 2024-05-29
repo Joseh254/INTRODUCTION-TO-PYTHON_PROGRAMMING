@@ -79,6 +79,7 @@ print(my_son_favourite_color)# print black
 
 #PRINTING MULTIPLE ITEMS
 
+A = 5
 
 
 
