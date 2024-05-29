@@ -77,4 +77,10 @@ print(my_dad_favourite_color)#print black
 print(my_son_favourite_color)# print black
 
 
+#PRINTING MULTIPLE ITEMS
+
+
+
+
+
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
