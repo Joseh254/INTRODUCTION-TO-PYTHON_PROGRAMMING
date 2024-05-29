@@ -7,3 +7,17 @@ print('hello world')
 
 # print ("hello word")   this will not be printed since it is a comment
 
+
+#************************************MULTIPLE LINE COMMENT*********************
+# we start with 3 speach marks ether double quotes or single quotes
+
+
+"""
+this
+is 
+a
+multiple
+line 
+comment
+"""
+
