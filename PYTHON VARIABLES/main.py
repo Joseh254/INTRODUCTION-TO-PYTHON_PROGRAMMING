@@ -59,6 +59,7 @@ you can declare multiple variables in single statement
 
 """
 
+name,age,gender = "joseph",25,"male"
 
 
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
