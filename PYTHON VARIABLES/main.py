@@ -25,5 +25,11 @@ print(y)
 
 
 # *********************************EXERCISE************************************************
+# you can specify the datatype as shown below
+
+name = str('joseph mbugua')
+print(name)
+
+# will print joseph mbugua
 
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
