@@ -76,3 +76,6 @@ p = complex(x)
 
 print(c)
 print(u)
+print(p)
+
+print(type(c))
