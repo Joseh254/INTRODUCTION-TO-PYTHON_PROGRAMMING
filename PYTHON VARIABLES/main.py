@@ -97,7 +97,7 @@ x = "easy"
 def myfunction():
   print("Python is " + x)
 
-myfunc()
+myfunction()
 
 
 
