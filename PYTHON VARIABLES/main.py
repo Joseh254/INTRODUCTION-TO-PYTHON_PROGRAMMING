@@ -94,6 +94,7 @@ print(A,c,f) #this will print 5,8 and 10 in the terminal
 # EXAMPLE
 x = "easy"
 
+def myfunction():
 
 
 
