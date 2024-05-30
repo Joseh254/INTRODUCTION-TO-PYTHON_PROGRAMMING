@@ -99,6 +99,18 @@ def myfunction():
 
 myfunction()
 
+"""
+The global Keyword
+
+When you create a variable inside a function, that variable is local variable, and can only be used inside that function or block.
+
+To create a global variables inside a function, you can use the global keyword.
+"""
+
+def example():
+
+
+
 
 
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
