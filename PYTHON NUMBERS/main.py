@@ -79,3 +79,5 @@ print(u)
 print(p)
 
 print(type(c))
+print(type(u))
+print(type(p))
