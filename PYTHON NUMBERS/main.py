@@ -62,5 +62,6 @@ print(type(z))
 # EXAMPLES
 
 x = 14    # int
+y = 2.832  # float
 
 
