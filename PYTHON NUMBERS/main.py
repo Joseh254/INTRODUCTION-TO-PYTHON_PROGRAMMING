@@ -55,3 +55,11 @@ print(type(z))
 
 # this will return the types as comples datatypes
 
+
+# Type Conversion
+# You can convert from one datatype  to another
+
+# EXAMPLES
+
+
+
