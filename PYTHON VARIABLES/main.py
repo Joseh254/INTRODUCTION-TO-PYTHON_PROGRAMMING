@@ -125,7 +125,8 @@ print(mypet) #prints dog as the pet
 
 
 
-
+mypet = "cat"
+print(mypet) #prints cat as the pet
 
 
 
