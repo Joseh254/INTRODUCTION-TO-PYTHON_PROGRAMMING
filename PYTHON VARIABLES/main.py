@@ -112,6 +112,9 @@ def example():
   y ="joseph"
 
 
+def runExample():
+  print(y)
+
 
 
 
