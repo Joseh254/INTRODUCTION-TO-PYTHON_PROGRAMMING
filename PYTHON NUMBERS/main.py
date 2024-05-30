@@ -61,5 +61,6 @@ print(type(z))
 
 # EXAMPLES
 
+x = 14    # int
 
 
