@@ -13,3 +13,6 @@ a = int(10)   # x will be 10
 b = int(3.8) # y will be 3
 c = int("3") # z will be 3
 
+print(a)
+print(b)
+print(c)
