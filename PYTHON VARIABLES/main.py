@@ -121,6 +121,7 @@ runExample() #this will print the value of y which is the string joseph
 
 global mypet
 mypet = "Dog"
+print(mypet) #prints dog as the pet
 
 
 
