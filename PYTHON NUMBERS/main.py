@@ -63,5 +63,8 @@ print(type(z))
 
 x = 14    # int
 y = 2.832  # float
+z = 14j   # complex
 
+#convert from int to float:
+c = float(x)
 
