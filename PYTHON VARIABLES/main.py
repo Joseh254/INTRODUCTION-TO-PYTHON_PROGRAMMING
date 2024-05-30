@@ -109,6 +109,9 @@ To create a global variables inside a function, you can use the global keyword.
 
 def example():
   global y
+  y ="joseph"
+
+
 
 
 
