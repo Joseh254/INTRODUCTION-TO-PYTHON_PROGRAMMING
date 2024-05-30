@@ -68,3 +68,9 @@ z = 14j   # complex
 #convert from int to float:
 c = float(x)
 
+#convert from float to int:
+u = int(y)
+
+#convert from int to complex:
+p = complex(x)
+
