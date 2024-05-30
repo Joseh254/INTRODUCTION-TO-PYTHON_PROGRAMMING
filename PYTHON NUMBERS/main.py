@@ -75,3 +75,4 @@ u = int(y)
 p = complex(x)
 
 print(c)
+print(u)
