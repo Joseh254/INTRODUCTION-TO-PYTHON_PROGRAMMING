@@ -95,6 +95,8 @@ print(A,c,f) #this will print 5,8 and 10 in the terminal
 x = "easy"
 
 def myfunction():
+  print("Python is " + x)
+
 
 
 
