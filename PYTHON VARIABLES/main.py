@@ -119,6 +119,8 @@ runExample() #this will print the value of y which is the string joseph
 
 # you can also change the value of a global variable the same way we do for local variables
 
+global mypet
+
 
 
 
