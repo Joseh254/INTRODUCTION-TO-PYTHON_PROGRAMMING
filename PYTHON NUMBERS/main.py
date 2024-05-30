@@ -81,3 +81,17 @@ print(p)
 print(type(c))
 print(type(u))
 print(type(p))
+
+
+"""
+Random Number
+Python does not have a random() function to generate a random number.
+However, it has a built-in module called random that can be used to generate random numbers:
+
+For this purpose , you must Import the random module
+
+see an example below
+
+
+"""
+
