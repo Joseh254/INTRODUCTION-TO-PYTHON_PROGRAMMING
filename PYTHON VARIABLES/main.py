@@ -115,7 +115,7 @@ def example():
 def runExample():
   print(y)
 
-
+runExample() #this will print the value of y which is the string joseph
 
 
 
