@@ -91,6 +91,11 @@ print(A,c,f) #this will print 5,8 and 10 in the terminal
 # Global variables are variables that are accesible in entire code
 #the are declared otside a function and they can be used inside the fuctions
 
+# EXAMPLE
+x = "easy"
+
+
+
 
 
 # WRITE A PROGRAM IN PYTHON TO ADD TWO NUMBERS.USE  COMMENTS TO DOCUMENT YOUR WORK
