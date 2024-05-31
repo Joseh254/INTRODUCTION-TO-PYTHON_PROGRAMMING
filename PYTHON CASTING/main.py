@@ -23,3 +23,8 @@ print(c)
 a = float(1)# will result to 1.0
 b = float(7.9) # will result to 7.9
 c = float('4') # will result to 4.0
+
+
+# we can aslo do the same for strings
+
+a = str(4) # this result to "4"
