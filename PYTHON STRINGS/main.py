@@ -40,6 +40,9 @@ print(a[0]) #returns the first character in the string which id h
 #*************************LOOPING THROUGH STRING*****************
 #Since strings are arrays, we can loop through the characters in a string, with a for loop.
 
+for i in "I miss her":(j)
+
+
 
 
 
