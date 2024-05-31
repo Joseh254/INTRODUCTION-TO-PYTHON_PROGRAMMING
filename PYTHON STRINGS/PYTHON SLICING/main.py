@@ -14,3 +14,7 @@ print(b[2:5])
 b = "helllo word"
 
 print(b[:5])
+
+# we can also slice at the end of a string
+b = "hello word"
+print(b[2:]) #this prints from index 2 to the end
