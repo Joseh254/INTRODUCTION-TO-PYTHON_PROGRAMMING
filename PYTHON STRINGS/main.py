@@ -53,6 +53,12 @@ print(len(a))
 
 
 #******************CHECKING IF A CHARACTER OR PHRASE EXISTS IN A STRING****************
+#We use keyword in as shown below
+text = "Serving Christ is a good decision"
+print("Christ" in text)
+
+#we can also use conditional statements to check
+
 
 
 
