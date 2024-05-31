@@ -17,3 +17,11 @@ print(myName)
 a = "this is a string"
 
 # ******************MULTIPLELINE STRINGS******************
+a = """
+my 
+favourite 
+movie 
+is 
+Agent x
+
+"""
