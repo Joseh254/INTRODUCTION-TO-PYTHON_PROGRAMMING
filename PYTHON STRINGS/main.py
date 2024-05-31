@@ -52,6 +52,10 @@ a = 'hello'
 print(len(a)) 
 
 
+#******************CHECKING IF A CHARACTER OR PHRASE EXISTS IN A STRING****************
+
+
+
 
 
 
