@@ -45,4 +45,12 @@ for i in "I miss her":(j)
 print(j) #returns all the elements of the string
 
 
+# ****************LENGTH OF A  STRING*********************
+# to get the length of the string we use  keyword len
+
+
+
+
+
+
 
