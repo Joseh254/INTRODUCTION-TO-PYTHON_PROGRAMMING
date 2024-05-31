@@ -70,3 +70,6 @@ if "wise" in text:
     #we use keyword not in
     # example
 
+    text = "I am a hacker"
+    print("good" not in text)
+    
