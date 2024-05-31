@@ -17,4 +17,20 @@ print(b[:5])
 
 # we can also slice at the end of a string
 b = "hello word"
-print(b[2:]) #this prints from index 2 to the end
+print(b[2:]) #this prints from index 2 to the end''
+
+
+# negative indexing
+# Use negative indexes to start the slice from the end of the string:
+
+"""Example
+Get the characters:
+
+From: "o" in "World!" (position -5)
+
+To, but not included: "d" in "World!" (position -2):
+
+"""
+
+b = "Hello, World!"
+print(b[-5:-2])
