@@ -66,6 +66,7 @@ if "wise" in text:
     #we will learn more on conditional statements later
 
 
-
-
+    # CHECK IF A STRING OR PHRASE IS NOT PRESENT
+    #we use keyword not in
+    # example
 
