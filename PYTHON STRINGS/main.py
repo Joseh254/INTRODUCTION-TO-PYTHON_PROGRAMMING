@@ -59,7 +59,11 @@ print("Christ" in text)
 
 #we can also use conditional statements to check
 
+text = "serving Christ is a wise decision"
+if "wise" in text:
+    print("wise exists in the string")
 
+    #we will learn more on conditional statements later
 
 
 
