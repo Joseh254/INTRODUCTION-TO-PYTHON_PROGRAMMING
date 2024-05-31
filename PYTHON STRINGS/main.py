@@ -25,3 +25,6 @@ is
 Agent x
 
 """
+# for this case we use either three single or double quotes
+
+print(a)
