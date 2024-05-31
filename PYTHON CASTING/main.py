@@ -28,3 +28,5 @@ c = float('4') # will result to 4.0
 # we can aslo do the same for strings
 
 a = str(4) # this result to "4"
+b = str(5.6) # will result to "5.6
+c = str("my name is joseph") # will result to "my name is joseph"
