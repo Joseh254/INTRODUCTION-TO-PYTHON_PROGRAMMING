@@ -6,3 +6,8 @@
 my_name = "joseph"
 myName = 'joseph'
 
+print(my_name)
+
+print(myName)
+
+# they both return joseph
