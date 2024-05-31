@@ -4,3 +4,5 @@
 # 'hjoseph' is the same as "joseph"
 
 my_name = "joseph"
+myName = 'joseph'
+
