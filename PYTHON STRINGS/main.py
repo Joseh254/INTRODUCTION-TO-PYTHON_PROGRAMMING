@@ -42,7 +42,7 @@ print(a[0]) #returns the first character in the string which id h
 
 for i in "I miss her":(j)
 
-
+print(j) #returns all the elements of the string
 
 
 
