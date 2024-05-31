@@ -49,7 +49,7 @@ print(j) #returns all the elements of the string
 # to get the length of the string we use  keyword len
 
 a = 'hello'
-print(len(a))
+print(len(a)) 
 
 
 
