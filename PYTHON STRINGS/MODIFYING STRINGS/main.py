@@ -23,3 +23,14 @@ print(a.lower())
 
 a = "   Hello, World!    "
 print(a.strip())
+
+# REPLACING STRING
+# WE USE keyword replace for replacing a string
+#EXAMPLE
+
+a = "hello world"
+
+print(a.replace("h" "k")) #returns "kello world"
+
+
+
