@@ -12,3 +12,14 @@ print(a.upper())
 
 #LOWERCASE
 #lower() method Is used to return the string in lower case:
+
+a = "HELLO WORLD"
+print(a.lower())
+
+# Remove Whitespace
+#Whitespace is the space before and/or after the actual text,
+#we use strip() to remove unwanted white spaces
+#EXAMPLE
+
+a = "   Hello, World!    "
+print(a.strip())
