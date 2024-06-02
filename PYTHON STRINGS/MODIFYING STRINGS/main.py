@@ -39,5 +39,12 @@ print(a.replace("h" "k")) #returns "kello world
 a = "Hello, World!"
 print(a.split(",")) # returns ['Hello', ' World!']
 
+"""
+exercise
+
+
+write a program in python to convert "hello wordld" to uppercase and split the string
+"""
+
 
 
