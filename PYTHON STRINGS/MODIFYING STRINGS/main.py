@@ -30,7 +30,14 @@ print(a.strip())
 
 a = "hello world"
 
-print(a.replace("h" "k")) #returns "kello world"
+print(a.replace("h" "k")) #returns "kello world
+
+#SPLITING A STRING
+#The split() method returns a list where the text between the specified separator becomes the list items.
+
+#EXAMPLE 
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
 
 
 
