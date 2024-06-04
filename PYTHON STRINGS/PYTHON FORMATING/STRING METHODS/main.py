@@ -30,3 +30,8 @@ print(name.upper())
 name = "joseph"
 
 print(name.replace("joseph" ,"mbugua."))
+
+#exercise practice
+
+# write a simple program to convert  your firstname in upper case and replace it with your second name.then return the length of your name
+# and check if "s" is present in your name.
