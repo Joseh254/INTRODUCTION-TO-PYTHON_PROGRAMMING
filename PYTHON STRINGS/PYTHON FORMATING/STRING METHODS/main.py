@@ -12,5 +12,6 @@ isnumeric()	Returns True if all characters in the string are numeric
 isprintable()	Returns True if all characters in the string are printable
 isspace()	Returns True if all characters in the string are whitespaces
 istitle()	Returns True if the string follows the rules of a title
+isupper()	Returns True if all characters in the string are upper case
 
 """
