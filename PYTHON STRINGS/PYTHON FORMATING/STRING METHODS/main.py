@@ -15,4 +15,14 @@ istitle()	Returns True if the string follows the rules of a title
 isupper()	Returns True if all characters in the string are upper case
 lower()	Converts a string into lower case
 replace()	Returns a string where a specified value is replaced with a specified value
+
+
+
 """
+name = "joseph"
+print(name.capitalize())
+
+
+name = "joseph"
+
+print(name.upper())
