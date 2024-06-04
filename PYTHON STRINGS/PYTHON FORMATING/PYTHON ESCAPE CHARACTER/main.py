@@ -6,3 +6,16 @@
 #EXAMPLE
 my_name ="joseph \"mbugua\"and i am a python programmer"
 print(my_name)
+
+# we have other escape characters used in python
+# lets look some of them
+
+note = 'It\'s alright.'
+print(note)
+
+#inserting a single backslash
+#we use double backslash
+
+#EXAMPLE
+distance ="speed\\time"
+print(distance)
