@@ -8,3 +8,12 @@ age = 36
 name = "My name is John, and I am {} years old"
 print(name.format(age))
 
+# The format() method takes unlimited number of arguments, and are placed into the respective placeholders:
+
+# Example
+number = 3
+itemnum = 567
+price = 49.95
+myorder = "I want {} pieces of item {} for {}ksh"
+print(myorder.format(number, itemnum, price))
+
