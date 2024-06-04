@@ -7,3 +7,6 @@ a="joseph"
 b= "mbugua"
 full_name = a+b
 print(full_name)#retuns joseph mbugua
+
+
+
