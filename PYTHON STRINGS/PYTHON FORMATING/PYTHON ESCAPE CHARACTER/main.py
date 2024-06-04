@@ -25,3 +25,5 @@ text = "Hello\nWorld!"
 print(text)
 
 #returns hello and world in two separate lines
+
+# we have others but we will discuss them later
