@@ -26,3 +26,7 @@ print(name.capitalize())
 name = "joseph"
 
 print(name.upper())
+
+name = "joseph"
+
+print(name.replace.("joseph" ,"mbugua."))
