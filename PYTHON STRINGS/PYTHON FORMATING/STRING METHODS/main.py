@@ -7,5 +7,8 @@ count()	Returns the number of occurence of a specified value  in a string
 endswith()	checks if the string ends with the specified value
 find()	Searches the string for a specified value and returns the position of where it was found as an idex
 format()	Formats specified values in a string
+islower()	Returns True if all characters in the string are lower case
+isnumeric()	Returns True if all characters in the string are numeric
+isprintable()	Returns True if all characters in the string are printable
 
 """
