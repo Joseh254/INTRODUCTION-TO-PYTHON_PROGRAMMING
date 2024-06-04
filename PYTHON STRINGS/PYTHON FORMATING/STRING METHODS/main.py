@@ -29,4 +29,4 @@ print(name.upper())
 
 name = "joseph"
 
-print(name.replace.("joseph" ,"mbugua."))
+print(name.replace("joseph" ,"mbugua."))
