@@ -19,3 +19,9 @@ print(note)
 #EXAMPLE
 distance ="speed\\time"
 print(distance)
+
+#NEW LINE
+text = "Hello\nWorld!"
+print(text)
+
+#returns hello and world in two separate lines
