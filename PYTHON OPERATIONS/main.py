@@ -101,3 +101,5 @@ Operator	Name	Description	                                            Example
 # Operator precedence describes the order in which operations are to be performed.they follow some mathematical rules
 
 # Parentheses has the highest precedence, meaning that expressions inside parentheses must be evaluated first:
+
+print((5 + 1) - (4 + 3)) #operations inside the brackets are performed first
