@@ -114,6 +114,7 @@ Operator	                        Description	Try it
 **	                                Exponentiation	
 +x  -x  ~x	                        Unary plus, unary minus, and bitwise NOT	
 *  /  //  %	                        Multiplication, division, floor division, and modulus	
++  -	                            Addition and subtraction	
 
 
 
