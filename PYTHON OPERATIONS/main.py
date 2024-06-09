@@ -80,3 +80,14 @@ is 	            Returns True if both variables are the same object	x is y
 is not	        Returns True if both variables are not the same object
 
 """
+
+
+# Python Bitwise Operators
+
+""""
+
+
+	
+~	        NOT	I    nverts all the bits	~x
+
+"""
