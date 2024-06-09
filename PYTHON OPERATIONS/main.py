@@ -95,3 +95,6 @@ Operator	Name	Description	                                            Example
 ~	        NOT	     inverts all the bits	                                ~x
 
 """
+
+# Operator Precedence
+
