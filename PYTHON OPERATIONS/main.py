@@ -70,3 +70,10 @@ or	        Returns True if one of the statements is true	            x < 5 or x 
 not	        Reverse the result, returns False if the result is true     
 
 """
+
+# Python Identity Operators
+
+"""
+
+
+"""
