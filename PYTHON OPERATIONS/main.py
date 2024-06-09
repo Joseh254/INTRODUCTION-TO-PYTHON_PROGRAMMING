@@ -11,6 +11,7 @@ Operator	Name	            Example
 
 +	        Addition	        x + y	
 -	        Subtraction	        x - y	
+*	        Multiplication	    x * y	
 
 
 """
