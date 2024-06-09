@@ -87,7 +87,8 @@ is not	        Returns True if both variables are not the same object
 """"
 
 
-	
-~	        NOT	I    nverts all the bits	~x
+Operator	Name	Description	                                            Example	
+
+
 
 """
