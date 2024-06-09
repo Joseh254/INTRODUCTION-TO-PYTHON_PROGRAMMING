@@ -7,3 +7,6 @@
 a =9
 b=6
 print(a>b)# this returns to true since 9 is greeter than b
+
+
+# Any string is True, except empty strings.
