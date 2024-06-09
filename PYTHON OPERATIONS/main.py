@@ -15,6 +15,6 @@ Operator	Name	            Example
 /	        Division	        x / y	
 %	        Modulus	            x % y	
 **	        Exponentiation	    x ** y	
-
+//	        Floor division	    x // y
 
 """
