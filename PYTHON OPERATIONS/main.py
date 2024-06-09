@@ -112,6 +112,7 @@ print(15 + 5 * 3)
 Operator	                        Description	Try it
 ()	                                Parentheses	
 **	                                Exponentiation	
++x  -x  ~x	                        Unary plus, unary minus, and bitwise NOT	
 
 
 
