@@ -3,3 +3,13 @@
 #EXAMPLE
 a=5
 print(a+3)
+
+"""
+
+
+Operator	Name	            Example
+
++	        Addition	        x + y	
+
+
+"""
