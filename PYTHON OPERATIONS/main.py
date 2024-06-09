@@ -13,5 +13,4 @@ Operator	Name	            Example
 -	        Subtraction	        x - y	
 *	        Multiplication	    x * y	
 
-
 """
