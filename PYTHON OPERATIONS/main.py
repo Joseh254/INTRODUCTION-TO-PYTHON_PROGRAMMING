@@ -89,6 +89,7 @@ is not	        Returns True if both variables are not the same object
 
 Operator	Name	Description	                                            Example	
 
+& 	        AND	     Sets each bit to 1 if both bits are 1	                x & y	
 
 
 """
