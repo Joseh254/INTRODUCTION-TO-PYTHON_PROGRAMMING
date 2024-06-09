@@ -10,6 +10,7 @@ print(a+3)
 Operator	Name	            Example
 
 +	        Addition	        x + y	
+-	        Subtraction	        x - y	
 
 
 """
