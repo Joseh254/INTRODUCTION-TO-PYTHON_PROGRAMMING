@@ -14,6 +14,7 @@ Operator	Name	            Example
 *	        Multiplication	    x * y	
 /	        Division	        x / y	
 %	        Modulus	            x % y	
+**	        Exponentiation	    x ** y	
 
 
 """
