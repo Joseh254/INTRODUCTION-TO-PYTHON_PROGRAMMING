@@ -103,3 +103,6 @@ Operator	Name	Description	                                            Example
 # Parentheses has the highest precedence, meaning that expressions inside parentheses must be evaluated first:
 
 print((5 + 1) - (4 + 3)) #operations inside the brackets are performed first
+
+# Multiplication * has higher precedence than addition
+print(15 + 5 * 3)
