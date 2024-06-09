@@ -18,3 +18,13 @@ Operator	Name	            Example
 //	        Floor division	    x // y
 
 """
+
+
+# Python Assignment Operators
+
+"""
+Operator	Example	        Same As	
+=	        x = 5	        x = 5	
+
+
+"""
