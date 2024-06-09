@@ -77,6 +77,6 @@ not	        Reverse the result, returns False if the result is true
 Operator	    Description	Example	
 
 is 	            Returns True if both variables are the same object	x is y	
-
+is not	        Returns True if both variables are not the same object
 
 """
