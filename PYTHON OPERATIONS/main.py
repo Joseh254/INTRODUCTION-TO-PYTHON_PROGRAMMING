@@ -116,6 +116,7 @@ Operator	                        Description	Try it
 *  /  //  %	                        Multiplication, division, floor division, and modulus	
 +  -	                            Addition and subtraction	
 <<  >>	                            Bitwise left and right shifts	
+&	                                Bitwise AND	
 
 
 
