@@ -106,3 +106,11 @@ print((5 + 1) - (4 + 3)) #operations inside the brackets are performed first
 
 # Multiplication * has higher precedence than addition
 print(15 + 5 * 3)
+
+
+"""
+Operator	                        Description	Try it
+
+
+
+"""
