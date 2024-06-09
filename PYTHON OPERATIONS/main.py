@@ -121,7 +121,8 @@ Operator	                        Description	Try it
 |	                                Bitwise OR	
 ==  !=  >  >=  <  <=                is  is not  in  not in 	Comparisons, identity, and membership operators	
 not	                                Logical NOT	
-
+and	                                AND	
+or	                                OR
 
 
 """
