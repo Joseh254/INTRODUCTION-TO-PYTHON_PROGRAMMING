@@ -98,3 +98,4 @@ Operator	Name	Description	                                            Example
 
 # Operator Precedence
 
+# Operator precedence describes the order in which operations are to be performed.they follow some mathematical rules
