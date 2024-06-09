@@ -74,6 +74,9 @@ not	        Reverse the result, returns False if the result is true
 # Python Identity Operators
 
 """
+Operator	    Description	Example	
+
+is 	            Returns True if both variables are the same object	x is y	
 
 
 """
